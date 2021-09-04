@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SNES CPU-01 Clock Booster")(type KiCad)(uri "${KIPRJMOD}/SNES CPU-01 Clock Booster.pretty")(options "")(descr ""))
+)
