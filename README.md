@@ -5,6 +5,6 @@
 
  The purpose of this board is to fix FXPak/SD2SNES issues with SHVC-CPU-01-based SNES consoles. The original clock driver on these PCB's is extremely load sensitive.
  
- Tested via deadbugging, this workaround does solve the glitches with the aforementioned carts.
+ Tested working, this workaround solves the glitches with the aforementioned cart(s).
 
- Installation instructions & pictures coming soon, once boards arrive. (9/3/21)
+ Installation instructions done, along with a pre and post-mod MCK trace waveform image. (10/30/21)
