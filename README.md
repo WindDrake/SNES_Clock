@@ -8,3 +8,6 @@
  Tested working, this workaround solves the glitches with the aforementioned cart(s).
 
  Installation instructions done, along with a pre and post-mod MCK trace waveform image. (10/30/21)
+ 
+ Forgot to note - you'll want to have these made as the 2oz/0.8mm PCB's if using OshPark, so the castellations come out correctly.
+ https://oshpark.com/shared_projects/jDfGjfv4 - Direct shared link @ OshPark
